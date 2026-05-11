@@ -1,0 +1,28 @@
+# Editor / OS artefacts
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Build / dependency artefacts
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.local
+
+# GPG / sensitive
+*.gpg
+*.asc.private
+private-key.*
+
+# Temporary
+*.tmp
+*.bak
+*.orig
+.cache/

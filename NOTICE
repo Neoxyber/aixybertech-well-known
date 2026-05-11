@@ -1,0 +1,63 @@
+================================================================================
+AIXYBER TECH LTD — Canonical Reference Files (aixybertech-well-known)
+================================================================================
+
+Copyright 2026 AIXYBER TECH LTD
+Company No. 16826340
+Registered office: 48 Warwick Street, London, England, W1B 5AW
+
+================================================================================
+LICENSING
+================================================================================
+
+This repository uses dual licensing:
+
+* Code (any scripts, configuration files, automation):
+  Licensed under the Apache License, Version 2.0 (the "License").
+  See LICENSE for the full text.
+  You may not use this file except in compliance with the License.
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+* Documentation (markdown files, text policies, prose):
+  Licensed under the Creative Commons Attribution 4.0 International
+  License (CC-BY-4.0).
+  See LICENSE-DOCS for the full text.
+  To view a copy of this license, visit:
+  https://creativecommons.org/licenses/by/4.0/
+
+================================================================================
+CONTACT
+================================================================================
+
+General inquiries:    info@aixybertech.com
+Security disclosure:  security@aixybertech.com
+Data protection:      privacy@aixybertech.com
+
+GitHub:               https://github.com/Neoxyber
+Website:              https://aixybertech.com
+
+================================================================================
+PURPOSE OF THIS REPOSITORY
+================================================================================
+
+This repository holds canonical reference files for AIXYBER TECH LTD. Each
+file in this repository serves as the single source of truth for its subject
+area and is referenced from other AIXYBER and Q-SAG substrate repositories.
+
+Files in this repository:
+
+  README.md                  — overview of the repository
+  company-facts.md           — corporate identity, registered details
+  pgp-key.txt                — PGP public key for security communications
+  security.txt               — RFC 9116 coordinated disclosure pointer
+  coordinated-disclosure.md  — full coordinated disclosure policy
+  AI_ASSISTANCE.md           — AI assistance disclosure policy
+  governance.md              — current governance model
+  substrate-programme.md     — Q-SAG substrate programme overview
+  secure-by-design.md        — CISA Secure by Design pledge status
+
+================================================================================
+END OF NOTICE
+================================================================================
