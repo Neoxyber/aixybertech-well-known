@@ -1,0 +1,20 @@
+# Coordinated security disclosure policy for AIXYBER TECH LTD
+# and the Q-SAG Open Source Substrate Programme.
+#
+# This file follows RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116).
+# Latest version: https://github.com/Neoxyber/aixybertech-well-known/blob/main/security.txt
+
+Contact: mailto:security@aixybertech.com
+Contact: https://github.com/Neoxyber/aixybertech-well-known/blob/main/coordinated-disclosure.md
+
+Expires: 2027-05-12T00:00:00.000Z
+
+Encryption: https://github.com/Neoxyber/aixybertech-well-known/blob/main/pgp-key.txt
+
+Preferred-Languages: en
+
+Canonical: https://github.com/Neoxyber/aixybertech-well-known/blob/main/security.txt
+
+Policy: https://github.com/Neoxyber/aixybertech-well-known/blob/main/coordinated-disclosure.md
+
+Acknowledgments: https://github.com/Neoxyber/aixybertech-well-known/blob/main/coordinated-disclosure.md#acknowledgments
